@@ -2,7 +2,7 @@
 
 ##Decription
 This genetic algorithm simulates natural selection on a chromosome that is realized as a 32bit binary sequence(length can be changed). A set number of chromosome are randomly generated. After being generated, the chromosomes are paired and reproduce. Reproduction is achieved by swapping a randomly selected group of each parent. Then the new chromosomes have a small chance to mutate (flip a digit). This process is continued until the desired evolution is reached.
-###Ex. 10001101011010101101101010001111
+#####Ex. 10001101011010101101101010001111
 
 ##Instructions
 **This program requires a Java JRE/JDK**
