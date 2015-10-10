@@ -5,7 +5,7 @@ This genetic algorithm simulates natural selection on a chromosome that is reali
 #####Ex. 10001101011010101101101010001111
 
 ##Instructions
-**This program requires a Java JRE/JDK**
+**This program requires a Java JRE/JDK.**
 
 ![alt text](http://i.imgur.com/5SuY7hj.jpg "Compile In Terminal")
 
