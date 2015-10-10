@@ -8,9 +8,11 @@ This genetic algorithm simulates natural selection on a chromosome that is reali
 **This program requires a Java JRE/JDK**
 
 ![alt text](http://i.imgur.com/5SuY7hj.jpg "Compile In Terminal")
+
 Use the terminal to compile the source files.
 
 ![alt text](http://i.imgur.com/UeQ1lac.jpg "Run The Program")
+
 Use "java GeneticAlgorithm" in the terminal to run the program. The results will be displayed to the screen.
 
 ##Miscellaneous
